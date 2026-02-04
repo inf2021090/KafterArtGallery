@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Kafter Art Gallery'
+
+[module]
+  [[module.imports]]
+    path = "github.com/nicokaiser/hugo-theme-gallery/v4"
