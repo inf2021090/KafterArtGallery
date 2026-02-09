@@ -23,4 +23,15 @@ resources:
 
   - src: "yakuza.jpg"
     title: "Yakuza Lady Concept (a bit cyberpunk)"
+
+
+  - src: "johnnyXv.jpg"
+    title: "V with Johnny Silverhand"
+
+
+  - src: "suki.jpg"
+    title: "Suki"
+
+  - src: "deathnote.jpg"
+    title: "Ligth and Ryuk (twested creation of Adam)"
 ---
